@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3JW9tnr4qFVzR+hjdcpFVxU2Bg3TCzoy+4/VKi9qobeMXqqhKD9Asxyxyz7FhprE8ivNZDtA8sx2Xp5rcj5Gw==",
+  "success": true,
+  "projectFilePath": "F:\\CinemaManagementv3\\CinemaManagement\\CinemaManagement\\CinemaManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomek\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
